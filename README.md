@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @RaviTeja-12
 - 👀 I’m interested in programming and stock market
-- 🌱 I’m currently a U.G student
-- 💞️ Single
+- 🌱 I’m currently a P.G student
 - 📫 How to reach me rtejapenumarthi@gmail.com
 
 <!---
